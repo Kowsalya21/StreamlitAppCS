@@ -2,4 +2,4 @@ streamlit
 Pillow
 transformers
 fuzzywuzzy
-tensorflow
+torch
